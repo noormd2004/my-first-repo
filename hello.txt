@@ -1,1 +1,2 @@
 hello Git
+im new user
